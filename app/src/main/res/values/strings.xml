@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Glove</string>
+    <string name="app_title">Smart Glove Controller</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="add_gesture">Add Gesture</string>
+    <string name="letter_hint">Letter</string>
+    <string name="text_hint">Text to speak</string>
+    <string name="sensor_data_label">Sensor Data:</string>
+    <string name="no_data">No data received</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connected">Connected</string>
+</resources>

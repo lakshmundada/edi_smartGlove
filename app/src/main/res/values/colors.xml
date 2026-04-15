@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F172A</color>
+    <color name="primary_tech">#38BDF8</color>
+    <color name="success_glow">#4ADE80</color>
+    <color name="text_main">#F1F5F9</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <color name="sensor_data_background">#1E293B</color>
+    <color name="primary_light">#7DD3FC</color>
+    <color name="primary">#38BDF8</color>
+    <color name="status_disconnected">#EF4444</color>
+</resources>
