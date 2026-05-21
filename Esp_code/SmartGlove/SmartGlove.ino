@@ -767,7 +767,7 @@ void enterCalibrationMode() {
   Serial.println("\n=== CALIBRATION MODE ===");
 
   float sumX = 0, sumZ = 0;
-  int samples = 20;
+  int samples = 50;
   int successfulSamples = 0;
 
   for (int i = 0; i < samples; i++) {
