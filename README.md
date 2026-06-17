@@ -269,22 +269,3 @@ User-created gestures remain available after power cycles using non-volatile fla
 * Cloud synchronization for gesture profiles
 * Multi-language speech output
 
----
-
-## Repository Contents
-
-* ESP32 Firmware
-* Circuit Design
-* Gesture Recognition Logic
-* Android Integration Components
-* Project Documentation
-
----
-
-## Author
-
-Laksh Mundada
-
-B.Tech Electronics Engineering
-
-Embedded Systems | IoT | Hardware-Software Integration
