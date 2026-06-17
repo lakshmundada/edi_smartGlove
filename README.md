@@ -70,7 +70,6 @@ The goal of this project is to create a portable and affordable wearable device 
 | DFPlayer Mini     | Audio playback              |
 | MicroSD Card      | Audio storage               |
 | Speaker           | Voice output                |
-| Push Button       | Calibration mode            |
 | Bluetooth Classic | Android communication       |
 
 ---
